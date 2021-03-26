@@ -1,6 +1,6 @@
 # Pomodoro Flutter
 
-Simple pomodoro app written in Flutter to demonstrate Flutter web deployment to netlify using github actions
+Simple pomodoro app written in Flutter to demonstrate Flutter web deployment to netlify using github actions.
 
 <img src="./screenshots/Screen Shot 2021-03-25 at 21.45.38.png">
 
