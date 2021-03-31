@@ -1,6 +1,10 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/10830820-825b-4e4b-8c2a-f04f7af4bf5c/deploy-status)](https://app.netlify.com/sites/flutterpomodoro/deploys)
+
 # Pomodoro Flutter
 
 Simple pomodoro app written in Flutter to demonstrate Flutter web deployment to netlify using github actions.
+
+https://flutterpomodoro.netlify.app/
 
 <img src="./screenshots/Screen Shot 2021-03-25 at 21.45.38.png">
 
